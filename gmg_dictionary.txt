@@ -1,0 +1,6 @@
+{'<@000000000000000000>': 1,
+ '<@000000000000000000>': 1,
+ '<@000000000000000000>': 1}
+
+
+# PLEASE REMOVE THIS COMMENT WHEN USING THIS IN FINAL DEVELOPMENT: replace each "000000000000000000" with any user discord ids from your discord server 3 user ids are required
